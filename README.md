@@ -2,7 +2,7 @@
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/AshutoshGoswami24/text-leech-bot/blob/main/.github/img/logo.gif?raw=true" width="100%">
+<img src="https://github.com/RaviTheRockStar/text-leech-bot/blob/main/.github/img/logo.gif?raw=true" width="100%">
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 
@@ -36,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/AshutoshGoswami24/text-leech-bot/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
 
 ## Deploy To VPS
-`git clone https://github.com/AshutoshGoswami24/text-leech-bot`
+`git clone https://github.com/RaviTheRockStar/text-leech-bot`
 
 `cd text-leech-bot`
 
@@ -58,7 +58,7 @@
 
 ❏ `API_HASH` - From [my.telegram.org](https://my.telegram.org/)
 
-❏ `PORT` - Any Port Like 6969 | Dont Use 8080 in [app.koyeb.com](https://app.koyeb.com/) & [colab.research.google.com](https://colab.research.google.com/)
+❏ `PORT` - Any Port Like 8080 | Dont Use 8080 in [app.koyeb.com](https://app.koyeb.com/) & [colab.research.google.com](https://colab.research.google.com/)
 
 ❏ `WEBHOOK` - True if you use [render.com](https://dashboard.render.com/) & [app.koyeb.com](https://app.koyeb.com/)
 
