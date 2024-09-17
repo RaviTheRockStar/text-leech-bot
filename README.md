@@ -24,7 +24,7 @@
 
 ## Deploy To Koyeb
               
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/AshutoshGoswami24/text-leech-bot&branch=main&name=ashutoshgoswami" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/RaviTheRockStar/text-leech-bot&branch=main&name=ashutoshgoswami" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
 
 ## Deploy To Render                  
@@ -50,7 +50,7 @@
 
 
 
-## vars.py [vars.py](https://github.com/AshutoshGoswami24/text-leech-bot/blob/main/modules/vars.py)
+## vars.py [vars.py](https://github.com/RaviTheRockStar/text-leech-bot/blob/main/modules/vars.py)
 
 ❏ `BOT_TOKEN`  - Get Bot Token From [@BotFather](https://t.me/BotFather)
 
@@ -78,7 +78,7 @@ uplod - ➕ ᴛxᴛ ғɪʟᴇ ᴜᴘʟᴏᴀᴅ
 </p>
  
 -----
-Credits: 🎖️<a href="https://t.me/Farooq_is_KING">𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭</a>  🎖️<a href="https://github.com/AshutoshGoswami24">𝗔𝘀𝗵𝘂𝘁𝗼𝘀𝗵𝗚𝗼𝘀𝘄𝗮𝗺𝗶𝟮𝟰</a> 🤖<a href="https://t.me/TxT_Leech_v2_Bot">Damo Bot</a>
+Credits: 🎖️<a href="https://t.me/Farooq_is_KING">Doodh Factory</a>  🎖️<a href="https://github.com/RaviTheRacoStar">Doodh Factory</a> 🤖<a href="https://t.me/TxT_Leech_v2_Bot">Damo Bot</a>
 
 Last Edited on: 07/01/2024, 11:05:19 PM
 
